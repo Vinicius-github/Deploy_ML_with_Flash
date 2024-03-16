@@ -1,1 +1,2 @@
-# Deploy_ML_with_Flash
+# Deploy-ML-model-with-Flask
+A simple ML model with Flask
